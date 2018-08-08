@@ -18,3 +18,6 @@ $ python3 -m venv env
 
 **Your terminal command prompt should look like:**
 >(env) $
+
+**To go back to the “system” context by executing deactivate:**
+>(env) $ deactivate
